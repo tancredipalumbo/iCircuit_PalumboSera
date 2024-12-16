@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<graphopt>
+	<option name="verbose" value="false"/>
+	<option name="svg" value="false"/>
+	<option name="parGridSep" value="3"/>
+	<option name="nodeSize" value="2"/>
+	<option name="graph_separation" value="2"/>
+	<option name="nodeGridSize" value="0"/>
+	<option name="transformerSizeX" value="6"/>
+	<option name="transformerSizeY" value="3"/>
+	<option name="separation" value="4"/>
+	<option name="useExternalPorts" value="false"/>
+	<option name="clusterGrounds" value="-1"/>
+	<gnd node="4"/>
+</graphopt>
